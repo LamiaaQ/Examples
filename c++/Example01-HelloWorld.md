@@ -32,7 +32,7 @@ int main(){
 
 ```
 
-#### Finally, we completed the setup and now we can use output function to pring our phrase. In c++ case, cout is the output function.
+#### Finally, we completed the setup and now we can use output function to print our phrase. In c++ case, cout is the output function.
 
 ```git
 
